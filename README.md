@@ -4,4 +4,4 @@
 
 * Tools used: Pandas, Numpy, Matplotlib, Scikit-Learn
 
-* Link to the project: [Click here](https://github.com/srpineda/ml-project-heart-disease-classification/blob/main/End-to-End%20Heart%20Disease%20Classification%20ML%20Project.ipynb).
+* Link to the project: [Click here](https://colab.research.google.com/github/srpineda/ml-project-titanic-kaggle/blob/main/Titanic.ipynb).
